@@ -1,8 +1,8 @@
-# Olá!
+# Olá!!
 
-### Bem vindo ao meu perfil no github!
+### Meu nome é Gabriel! Bem vindo ao meu perfil no github.
 <p>
-  Meu nome é Gabriel Treviso, tenho 25 anos e sou estudante de Análise e desenvolvimento de sistemas pela Estácio. Atualmente trabalho em um empresa de cobrança digital e atuo na área de desenvolvimento, abordando novos projetos, soluções com automação de processos, transformação de dados, gestão estratégica, manutenções e correções de aplicações.
+  Me chamo Gabriel Treviso, tenho 25 anos e sou estudante de Análise e desenvolvimento de sistemas pela Estácio. Atualmente trabalho em um empresa de cobrança digital e atuo na área de desenvolvimento, abordando novos projetos, soluções com automação de processos, transformação de dados, gestão estratégica, manutenções e correções de aplicações.
 Vejo a área de tecnologia como um ponto importante para obter valores possiveis de proporcionar melhorias conslidadas nos setores que trabalho, assim como poder transmitir conhecimento para outros pessoas, impactando positivamente o ambiente.
 </p>
 
