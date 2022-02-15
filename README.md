@@ -31,8 +31,8 @@ Vejo a área de tecnologia como um ponto importante para obter valores possiveis
 </a>
 
 <a href="mailto:gabrieltrevisob@gmail.com">
-  
-  
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg) 
   <code><img alt="E-mail" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" /></code>
 </a>
+
+
+![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
